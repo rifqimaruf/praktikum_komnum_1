@@ -29,3 +29,15 @@ Metode Bolzano atau juga disebut sebagai Metode Bisection, adalah teknik numerik
     -   Jika `f(b) * f(c) < 0`, maka akar terletak di interval `[c, b]`. Tetapkan `a = c`.
 
 3. **Kondisi Berhenti**: Ulangi proses iterasi sampai panjang interval `[a, b]` menjadi sangat kecil (kurang dari toleransi yang ditentukan) atau sampai nilai absolut dari `f(c)` sangat kecil (mendekati nol).
+
+## Hasil Proses Iterasi dan Grafik Fungsi
+
+![Proses Iteratif Metode Bolzano](images/Proses_Iterasi.png)
+
+![Grafik Fungsi](images/Figure_1.png)
+
+## Refrensi
+
+-   PPT Komputasi Numerik Pertemuan II
+-   [Github Repo](https://github.com/AfiqHaidar/bolzano-method)
+-   Chat with GPT-4o (5 Juli 2024, 5:15 PM)
